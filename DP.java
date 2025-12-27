@@ -39,3 +39,13 @@
 // dp[i] = dp[i-1] + dp[i-2]
 // }
 // ans = dp[n]
+
+// 7 IMPORTANT QUESTIONS
+
+// 1. Fibonacci
+// 2. 0-1 Knapsack
+// 3. Unbound Knapsack
+// 4. LCS (Longest Common Subsequence)
+// 5. Kadane's Algorithm (Arrays)
+// 6. Catalan Number
+// 7. DP on Grid (2D Arrays)
